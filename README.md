@@ -7,11 +7,11 @@ This would let us analyze much larger datasets in less time if we wanted to expa
 ## Results
 The refactored code ended up being much faster than our original, running in a few tenths of a second compared to close to two seconds. While that isn't a huge difference in the grand scheme of things, if we were analyzing 1,200 stocks instead of 12 stocks, it would cut down considerably on wait time.
 The code ran so much faster because our For loop looped through all the data at once rather than looping 12 times to grab the corresponding stock each time, as shown below:
-![If Then Code]/Resources/If_Then_Code.PNG
+![/Resources/If_Then_Code.PNG](https://github.com/jfinn57/stock-analysis/blob/main/Resources/If_Then_Code.PNG)
 
 The code helped show us that overall, the returns for the list of our stocks were much better in 2017 compared to 2018. However, ENPH and RUN had some great returns in 2018. This might be helpful for our friend to determine how to balance his portfolio find new stocks to invest in. Full year by year results below.
-![2017 return]/Resources/VBA_Challenge_2017.PNG
-![2018 return]/Resources/VBA_Challenge_2018.PNG
+![[2017 return]/Resources/VBA_Challenge_2017.PNG](https://github.com/jfinn57/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+![[2018 return]/Resources/VBA_Challenge_2018.PNG](https://github.com/jfinn57/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 ## Summary
 
