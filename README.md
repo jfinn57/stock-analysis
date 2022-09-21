@@ -10,6 +10,8 @@ The code ran so much faster because our For loop looped through all the data at 
 ![/Resources/If_Then_Code.PNG](https://github.com/jfinn57/stock-analysis/blob/main/Resources/If_Then_Code.PNG)
 
 The code helped show us that overall, the returns for the list of our stocks were much better in 2017 compared to 2018. However, ENPH and RUN had some great returns in 2018. This might be helpful for our friend to determine how to balance his portfolio find new stocks to invest in. Full year by year results below.
+
+
 ![[2017 return]/Resources/VBA_Challenge_2017.PNG](https://github.com/jfinn57/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 ![[2018 return]/Resources/VBA_Challenge_2018.PNG](https://github.com/jfinn57/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
